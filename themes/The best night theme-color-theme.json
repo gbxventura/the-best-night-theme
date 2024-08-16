@@ -1043,10 +1043,48 @@
       }
     },
     {
+      "name": "HTML Tag",
+      "scope": "entity.name.tag.html",
+      "settings": {
+        "foreground": "#00DBB2",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "HTML Attribute",
+      "scope": "entity.other.attribute-name.html",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "HTML Attribute Value",
+      "scope": "string.quoted.double.html, string.quoted.single.html",
+      "settings": {
+        "foreground": "#7FFF00"
+      }
+    },
+    {
+      "name": "HTML Comment",
+      "scope": "comment.block.html",
+      "settings": {
+        "foreground": "#808080",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "HTML Text Content",
+      "scope": "text.html.basic",
+      "settings": {
+        "foreground": "#FFFFFF"
+      }
+    },
+
+    {
       "name": "illegal",
       "scope": "invalid.illegal.bad-ampersand.html",
       "settings": {
-        "foreground": "#ff23a9"
+        "foreground": "#d1d1d1"
       }
     },
     {
