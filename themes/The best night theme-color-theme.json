@@ -1078,7 +1078,13 @@
         "foreground": "#FFFFFF"
       }
     },
-
+    {
+      "name": "HTML Text Content",
+      "scope": "text.html.basic, string.unquoted.js, meta.jsx.children.js",
+      "settings": {
+        "foreground": "#FFFFFF" // Cor para o texto dentro de tags HTML, JS, e JSX
+      }
+    },
     {
       "name": "illegal",
       "scope": "invalid.illegal.bad-ampersand.html",
@@ -1904,8 +1910,6 @@
     "input.placeholderForeground": "#ffffff",
     "textLink.foreground": "#1400ff",
     "editor.background": "#030917",
-    // rosa
-    // "editor.foreground": "#ff23a9",
     "editor.foreground": "#fff",
     "editorLineNumber.foreground": "#858585",
     "editorCursor.foreground": "#aeafad",
