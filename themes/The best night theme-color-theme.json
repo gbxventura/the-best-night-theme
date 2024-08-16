@@ -116,7 +116,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#ff23a9"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -937,7 +937,7 @@
       "name": "[VSCODE-CUSTOM] Markdown heading setext",
       "scope": "markup.heading.setext",
       "settings": {
-        "foreground": "#ff23a9"
+        "foreground": "#a9d3c6"
       }
     },
     {
@@ -1046,8 +1046,7 @@
       "name": "HTML Tag",
       "scope": "entity.name.tag.html",
       "settings": {
-        "foreground": "#00DBB2",
-        "fontStyle": "bold"
+        "foreground": "#00DBB2"
       }
     },
     {
