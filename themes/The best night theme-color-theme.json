@@ -721,7 +721,7 @@
     },
     {
       "name": "CSS Class",
-      "scope": "entity.other.attribute-name.class.css",
+      "scope": "entity.other.attribute-name.class, entity.other.attribute-name.class.css",
       "settings": {
         "foreground": "#7ACE6A",
         "fontStyle": "bold"
@@ -753,7 +753,7 @@
       "name": "CSS Property Value",
       "scope": "support.constant.property-value.css",
       "settings": {
-        "foreground": "#D9512D"
+        "foreground": "#ADFF2F"
       }
     },
     {
@@ -788,7 +788,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#39ff58"
+        "foreground": "#ADFF2F"
       }
     },
     {
