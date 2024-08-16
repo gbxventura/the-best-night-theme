@@ -1904,7 +1904,9 @@
     "input.placeholderForeground": "#ffffff",
     "textLink.foreground": "#1400ff",
     "editor.background": "#030917",
-    "editor.foreground": "#ff23a9",
+    // rosa
+    // "editor.foreground": "#ff23a9",
+    "editor.foreground": "#fff",
     "editorLineNumber.foreground": "#858585",
     "editorCursor.foreground": "#aeafad",
     "editorCursor.background": "#000000",
