@@ -2,7 +2,7 @@
   "name": "the-best-night-theme",
   "displayName": "The Best Night Theme",
   "description": "The name says it all. O melhor que temos hoje no mercado.",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "engines": {
     "vscode": ">=1.40.0"
   },
